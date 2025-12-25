@@ -1,3 +1,3 @@
-## Distributed & Fault-Tolerant Systems Experiments
+## Cloud Computing and Distributed & Fault-Tolerant Systems Experiments
 
-This is my repo of distributed and fault-tolerant systems experiments.
+This is my repo of Cloud Computing and Distributed & fault-tolerant systems experiments.
